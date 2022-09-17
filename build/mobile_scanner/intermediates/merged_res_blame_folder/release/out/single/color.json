@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/rusiruwijethilake/Documents/GitHub/election_app/build/mobile_scanner/intermediates/merged_res/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/rusiruwijethilake/.gradle/caches/transforms-3/3ff720be07735976176520d1c05fb799/transformed/jetified-play-services-base-18.0.1/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/rusiruwijethilake/Documents/GitHub/election_app/build/mobile_scanner/intermediates/merged_res/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/rusiruwijethilake/.gradle/caches/transforms-3/3ff720be07735976176520d1c05fb799/transformed/jetified-play-services-base-18.0.1/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/rusiruwijethilake/Documents/GitHub/election_app/build/mobile_scanner/intermediates/merged_res/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/rusiruwijethilake/.gradle/caches/transforms-3/3ff720be07735976176520d1c05fb799/transformed/jetified-play-services-base-18.0.1/res/color/common_google_signin_btn_text_light.xml"
+    }
+]
