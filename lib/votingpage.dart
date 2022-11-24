@@ -93,6 +93,7 @@ class _MyVotingPage extends State<VotingPage> {
                   mainAxisSize: MainAxisSize.max,
                   children: [
                     Text("Select 1 candidate from the list"),
+                    Text(listData.toString()),
                     Padding(
                       padding: EdgeInsets.fromLTRB(24.0, 12.0, 24.0, 12.0),
                       child: SizedBox(
@@ -107,7 +108,7 @@ class _MyVotingPage extends State<VotingPage> {
                                   leading: Text(value["candidate_no"]),
                                   subtitle: Text(value["candidate_party"]),
                                   trailing: Radio(
-                                    value: int.parse(value["candidate_no"].toString()),
+                                    value: int.parse(value["id"].toString()),
                                     groupValue: _value,
                                     onChanged: (value) {
                                       _handleRadioValueChanged(value!);
